@@ -3,7 +3,7 @@ server-demo
 
 Demo for Scaling Server Architecture
 
-Requires [Apache Maven](http://maven.apache.org) 3.0 or greater, and JDK 6+ in order to run.
+Requires [Apache Maven](http://maven.apache.org) 3.0 or greater, [Google App Engine Java SDK](https://developers.google.com/appengine/docs/java/gettingstarted/installing), and JDK 6+ in order to run.
 
 To build, run
 
