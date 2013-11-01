@@ -1,0 +1,10 @@
+<queue-entries>
+  <queue>
+    <name>sideEffectDataQueue</name>
+    <rate>5/s</rate>
+  </queue>
+  <queue>
+    <name>notifyUsersQueue</name>
+    <rate>5/s</rate>
+  </queue>
+</queue-entries>
